@@ -29,6 +29,8 @@ h1 {
   .todo {
     display: flex;
     flex-direction: column;
+    font-size: 26px;
+    background-color: rgb(199, 200, 211);
   }
   
   button {
@@ -73,3 +75,4 @@ h1 {
     display: flex;
     justify-content: space-between;
   }
+
